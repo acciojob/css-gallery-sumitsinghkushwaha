@@ -1,11 +1,13 @@
-/*  your css code here. If applicable */
-main{
-	display:flex;
+/* your css code here. If applicable */
+main {
+  display: flex;
+  flex-wrap: wrap; /* Add this line to explicitly set flex-wrap to wrap */
 }
-img{
-	display:flex;
-	margin:10px;
-	border:3px solid #000;
-	box-shadow:3px 8px 0px rgba(0,0,0,0.3);
-	max-width:25vw;
+
+img {
+  display: flex;
+  margin: 10px;
+  border: 3px solid #000;
+  box-shadow: 3px 8px 0px rgba(0, 0, 0, 0.3);
+  max-width: 25vw;
 }
