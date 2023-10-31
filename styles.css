@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+main{
+	display:flex;
+}
 img{
 	display:flex;
 	margin:10px;
